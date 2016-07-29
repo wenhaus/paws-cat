@@ -1,6 +1,6 @@
 # Paws The Cat Web Page
 
-## By wenhaus
+## _By wenhaus_
 
 ### Description
-#### This is basic web page about Paws the cat listing some of her favorite things.
+#### This is a basic web page about Paws the cat listing some of her favorite things.
